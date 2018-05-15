@@ -1,0 +1,32 @@
+<style
+body{
+    margin:0px;
+    background:#000;
+}
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+}
+.fixed-header, .fixed-footer{
+        width: 100%;
+        position: fixed;        
+        background:#a292eb;
+        border:1px solid #CCC;
+        padding: 15px 0;
+        color: #fff;
+    }
+.header {
+    height:50px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    width:960px;
+    margin:0px auto;
+}
+.content {
+    width:960px;
+    background: #F0F0F0;
+    border: 1px solid #CCC;
+    height: 2000px;
+    margin: 70px auto;
+}
